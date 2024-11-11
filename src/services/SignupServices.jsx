@@ -1,5 +1,5 @@
 export async function signup(object_) {
-  const apiUrl = `http://localhost:3000/users/signup`;
+  const apiUrl = `https://frontend-app-exgv-jql2.onrender.com/users/signup`;
 
   try {
     const response = await fetch(apiUrl, {
