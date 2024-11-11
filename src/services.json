@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "titre": "Cours en ligne",
+    "description": "Accédez à une variété de cours en ligne avec des enseignants qualifiés.",
+    "fonctionnalites": [
+      "Accès 24/7",
+      "Cours vidéo en haute qualité",
+      "Certificats après validation"
+    ],
+    "image": "https://wiijob.com/wp-content/uploads/2022/09/formation_en_ligne-wiijob-1536x1024.jpg"
+    
+  },
+  {
+    "id": 2,
+    "titre": "Programmes intensifs",
+    "description": "Des programmes intensifs pour les étudiants qui veulent progresser rapidement.",
+    "fonctionnalites": [
+      "Enseignants qualifiés et expérimentés",
+      "Accès à des ressources pédagogiques",
+      "Support pédagogique 7j/7"
+    ],
+      "image": "https://univ-constantine3.dz/wp-content/uploads/2022/12/arton141.jpg"
+  },
+  {
+    "id": 3,
+    "titre": "Support pédagogique",
+    "description": "Un support pédagogique personnalisé pour aider les étudiants dans leur parcours.",
+    "fonctionnalites": [
+      "Aide en ligne par des tuteurs",
+      "Sessions de rattrapage individuelles",
+      "Soutien aux devoirs et examens"
+    ],
+      "image": "https://da32ev14kd4yl.cloudfront.net/versioned/boostyourbiz/BYL/Innovations%20Pdagogiques%20peu%20Coteuses.jpg"
+  },
+  {
+    "id": 4,
+    "titre": "Activités parascolaires",
+    "description": "Des activités pour enrichir l'expérience éducative des étudiants.",
+    "fonctionnalites": [
+      "Ateliers de théâtre et de musique",
+      "Sports et clubs",
+      "Projets artistiques et culturels"
+    ],
+      "image": "https://familleactuelle.ma/wp-content/uploads/2021/09/52498734.jpg"
+  }
+]

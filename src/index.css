@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+.slick-slide {
+  padding-right: 2rem;
+}
+.slick-prev,
+.slick-next {
+  border-radius: 50%; /* Makes the button round */
+  color: #00b8c4; /* Arrow color */
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: #00b8c4; /* Arrow color */
+  font-size: 20px; /* Arrow size */
+}
+.slick-dots li button {
+  width: 12px; /* Size of dots */
+  height: 12px; /* Size of dots */
+  padding: 0;
+  border: none;
+}
+
+.slick-dots li button:before {
+  content: "•"; /* Ensures dot uses bullet character */
+  font-size: 12px; /* Size of dots */
+  line-height: 12px; /* Aligns the dot vertically */
+  color: #00b8c4; /* Default color for non-active dots */
+  opacity: 0.3; /* Slightly transparent when not active */
+}
+
+/* Custom styling for active dot */
+.slick-dots li.slick-active button:before {
+  color: #00b8c4;
+  opacity: 1;
+}
